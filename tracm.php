@@ -24,7 +24,7 @@
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-// Include eE API library
+// Include Tra.cm API library
 require_once "includes/TracmAPIExchange.php";
 
 // hook for adding admin menus
