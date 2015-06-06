@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Tracm API - PHP:  Wrapper for v1.0
+ * tra.cm API - PHP:  Wrapper for v1.0
  */
 class TracmAPIExchange
 {
