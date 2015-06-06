@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name: Tra.cm Wordpress Plugin
+ * Plugin Name: tra.cm Wordpress Plugin
  * Plugin URI: https://github.com/tracm/wordpress
- * Description: Easily add your Tra.cm URL shortening account to your Wordpress web site.
+ * Description: Easily add your tra.cm URL shortening account to your Wordpress web site.
  * Version: 1.0
- * Author: Tra.cm, LLC.
+ * Author: tra.cm, LLC.
  * Author URI: http://tra.cm
  * License: GPL2
  */
- /*  Copyright 2014 Tra.cm  (email : sales@tra.cm)
+ /*  Copyright 2015 tra.cm  (email : sales@tra.cm)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
@@ -24,7 +24,7 @@
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-// Include Tra.cm API library
+// Include tra.cm API library
 require_once "includes/TracmAPIExchange.php";
 
 // hook for adding admin menus
